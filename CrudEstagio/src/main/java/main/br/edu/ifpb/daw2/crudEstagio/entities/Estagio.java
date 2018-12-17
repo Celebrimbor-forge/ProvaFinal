@@ -1,3 +1,4 @@
+package br.edu.ifpb.daw2.crudEstagio.entities;
 import java.util.Date;
 
 import javax.persistence.Id;

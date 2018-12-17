@@ -1,3 +1,4 @@
+package br.edu.ifpb.daw2.crudEstagio.entities;
 import javax.persistence.Id;
 
 public class Empresa {

@@ -1,6 +1,7 @@
+package br.edu.ifpb.daw2.crudEstagio.entities;
 import javax.persistence.Id;
 
-public class Supervisor {
+public class Orientador {
 	@Id
 	private int id;
 	private String nome;
